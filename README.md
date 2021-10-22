@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Charioteer aka Patrick Siegle
 - 👨‍🎓 B. Sc. Software Engineering
-- 👀 I’m especially interested in technologies used in the WWW (in particular NodeJS, PHP, REST, GraphQL, HTML, CSS, JavaScript [React, Angular, Vue, jQuery], ...)
+- 👀 I’m especially interested in technologies used in the WWW
+  - **Backend**: Express.js, Fastify, Symfony, Laravel, ...
+  - **Interfaces**: REST, GraphQL
+  - **Frontend**: HTML, CSS, React, Angular, Vue, jQuery, Ionic, ...
 - 🏠 Living in Heidelberg, Germany
-- 🏢 CEO @Prellenium
+- 🏢 CEO @[Prellenium](https://prellenium.com)
